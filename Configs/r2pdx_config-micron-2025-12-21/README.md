@@ -52,7 +52,7 @@ Toolboard_{0/1}.cfg
 Tc_offset_calibration_macros.cfg
 -
  - Set the pin for your nudge / sexbolt / other 3 - axis probe.
- - See https://github.com/joseph-greiner/klipper_tc_automatic_offset_calibration for instructions on running the macros within this file.
+ - See [https://github.com/joseph-greiner/klipper_tc_automatic_offset_calibration](https://github.com/joseph-greiner/klipper_tc_automatic_offset_calibration?tab=readme-ov-file#running-the-macros) for instructions on running the macros within this file.
 
 Offset_save_file.cfg <br>
 Stealthburner_macros_tc.cfg<br>
